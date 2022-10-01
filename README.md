@@ -8,3 +8,5 @@ Git command list:
 
 - git status: Se utiliza para ver los archivos que han sido modificados desde el último commit.
 
+
+
