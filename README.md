@@ -8,5 +8,9 @@ Git command list:
 
 - git status: Se utiliza para ver los archivos que han sido modificados desde el último commit.
 
+- git add <archivo>: Se utiliza para especificar qué archivos serán añadidos al commit siguiente.
 
+- git commit -m "<nombre_del_commit>": Se utiliza para crear un commit.
+
+- git push: Se utiliza para escribir los commits y ediciones a un repositorio.
 
